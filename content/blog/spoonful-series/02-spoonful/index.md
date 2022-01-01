@@ -9,17 +9,18 @@ title: A second post
 weight: 2
 ---
 
-{{< here >}}
+## f6
 
+![](fl6.jpg)
 
-## part 2!
+## f7
 
-### does this work?
+![](fl7.jpg)
 
----
+## f8
 
-## now for some very cool things
+![](fl8.jpg)
 
-## more
+## f9
 
-## get ready!
+![](fl9.jpg)
