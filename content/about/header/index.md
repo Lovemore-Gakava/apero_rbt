@@ -7,5 +7,5 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-Flowers and landscape to marvel at. Emotions evoked and topics debated - at the end to see and have a shared visual enhaces our Ubuntu! 
+The first series will showcase flowers and landscape found in west Wales. There is no place like home to kick off the first installment of photos. 
 
