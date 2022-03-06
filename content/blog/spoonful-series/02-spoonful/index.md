@@ -1,5 +1,5 @@
 ---
-date: "2021-01-02"
+date: "2022-03-06"
 draft: false
 excerpt: Oh sheer drop!
 subtitle: ""
@@ -7,11 +7,11 @@ title: A second post
 weight: 2
 ---
 
-## light house
+## Light house
 
 ![](DSC_0479.JPG)
 
-## light house
+## Light house
 
 ![](DSC_0500.JPG)
 
@@ -23,7 +23,7 @@ weight: 2
 
 ![](DSC_0606.JPG)
 
-## let there be light!
+## Let there be light!
 
 ![](DSC_0695.JPG)
 

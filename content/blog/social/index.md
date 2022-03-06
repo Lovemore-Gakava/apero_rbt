@@ -2,7 +2,7 @@
 author: LG
 categories:
 - Theme Features
-date: touch `date +"%Y.%m.%d.md"`
+date: "2022-03-06"
 draft: false
 excerpt: The Flower That Smiles Today
 layout: single
